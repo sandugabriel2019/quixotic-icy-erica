@@ -1,0 +1,22 @@
+{
+  "name": "quixotic-icy-erica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandugabriel2019/quixotic-icy-erica.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandugabriel2019/quixotic-icy-erica/issues"
+  },
+  "homepage": "https://github.com/sandugabriel2019/quixotic-icy-erica#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
